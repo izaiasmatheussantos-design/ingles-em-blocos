@@ -1,0 +1,4 @@
+# Publicação estática do site religioso no Netlify.
+# A raiz contém index.html e a pasta orixas com a configuração do Pixel.
+[build]
+  publish = "."
